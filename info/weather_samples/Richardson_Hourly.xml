@@ -1,0 +1,2895 @@
+<response>
+	<version>0.1</version>
+	<termsofService>http://www.wunderground.com/weather/api/d/terms.html</termsofService>
+	<features>
+		<feature>hourly</feature>
+	</features>
+	<hourly_forecast>
+		<forecast>
+		<FCTTIME>
+		<hour>23</hour><hour_padded>23</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>8</mday><mday_padded>08</mday_padded><yday>127</yday><isdst>1</isdst><epoch>1399608000</epoch><pretty>11:00 PM CDT on May 08, 2014</pretty><civil>11:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Thursday</weekday_name><weekday_name_night>Thursday Night</weekday_name_night><weekday_name_abbrev>Thu</weekday_name_abbrev><weekday_name_unlang>Thursday</weekday_name_unlang><weekday_name_night_unlang>Thursday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>36</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>172</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>85</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>22</pop>
+			<mslp>
+				<english>29.82</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>0</hour><hour_padded>00</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399611600</epoch><pretty>12:00 AM CDT on May 09, 2014</pretty><civil>12:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>30</sky>
+			<wspd>
+				<english>11</english>
+				<metric>18</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>173</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>88</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>22</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>1</hour><hour_padded>01</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399615200</epoch><pretty>1:00 AM CDT on May 09, 2014</pretty><civil>1:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>47</sky>
+			<wspd>
+				<english>12</english>
+				<metric>19</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>169</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>88</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>22</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>2</hour><hour_padded>02</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399618800</epoch><pretty>2:00 AM CDT on May 09, 2014</pretty><civil>2:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>45</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>185</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>88</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>15</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>3</hour><hour_padded>03</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399622400</epoch><pretty>3:00 AM CDT on May 09, 2014</pretty><civil>3:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>68</english>
+				<metric>20</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>54</sky>
+			<wspd>
+				<english>11</english>
+				<metric>18</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>185</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>90</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>15</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>4</hour><hour_padded>04</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399626000</epoch><pretty>4:00 AM CDT on May 09, 2014</pretty><civil>4:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>48</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>186</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>89</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>18</pop>
+			<mslp>
+				<english>29.84</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>5</hour><hour_padded>05</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399629600</epoch><pretty>5:00 AM CDT on May 09, 2014</pretty><civil>5:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>54</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>192</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>88</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>8</pop>
+			<mslp>
+				<english>29.84</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>6</hour><hour_padded>06</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399633200</epoch><pretty>6:00 AM CDT on May 09, 2014</pretty><civil>6:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>65</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Mostly Cloudy</condition>
+			
+			
+			<icon>mostlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_mostlycloudy.gif</icon_url>
+			<fctcode>3</fctcode>
+			<sky>64</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>204</degrees>
+			</wdir>
+			<wx>Mostly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>86</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>7</pop>
+			<mslp>
+				<english>29.86</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>7</hour><hour_padded>07</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399636800</epoch><pretty>7:00 AM CDT on May 09, 2014</pretty><civil>7:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>69</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Mostly Cloudy</condition>
+			
+			
+			<icon>mostlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/mostlycloudy.gif</icon_url>
+			<fctcode>3</fctcode>
+			<sky>74</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>201</degrees>
+			</wdir>
+			<wx>Mostly Cloudy</wx>
+			<uvi>8</uvi>
+			<humidity>90</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>69</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>8</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>8</hour><hour_padded>08</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399640400</epoch><pretty>8:00 AM CDT on May 09, 2014</pretty><civil>8:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Chance of a Thunderstorm</condition>
+			
+			
+			<icon>chancetstorms</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/chancetstorms.gif</icon_url>
+			<fctcode>14</fctcode>
+			<sky>76</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>212</degrees>
+			</wdir>
+			<wx>Isolated Thunderstorms</wx>
+			<uvi>6</uvi>
+			<humidity>86</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>30</pop>
+			<mslp>
+				<english>29.87</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>9</hour><hour_padded>09</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399644000</epoch><pretty>9:00 AM CDT on May 09, 2014</pretty><civil>9:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>73</english>
+				<metric>23</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Overcast</condition>
+			
+			
+			<icon>cloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/cloudy.gif</icon_url>
+			<fctcode>4</fctcode>
+			<sky>82</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>214</degrees>
+			</wdir>
+			<wx>Cloudy</wx>
+			<uvi>6</uvi>
+			<humidity>81</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>73</english>
+					<metric>23</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>28</pop>
+			<mslp>
+				<english>29.88</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>10</hour><hour_padded>10</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399647600</epoch><pretty>10:00 AM CDT on May 09, 2014</pretty><civil>10:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>76</english>
+				<metric>24</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Mostly Cloudy</condition>
+			
+			
+			<icon>mostlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/mostlycloudy.gif</icon_url>
+			<fctcode>3</fctcode>
+			<sky>69</sky>
+			<wspd>
+				<english>11</english>
+				<metric>18</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>216</degrees>
+			</wdir>
+			<wx>Mostly Cloudy</wx>
+			<uvi>8</uvi>
+			<humidity>76</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>76</english>
+					<metric>24</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>25</pop>
+			<mslp>
+				<english>29.89</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>11</hour><hour_padded>11</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399651200</epoch><pretty>11:00 AM CDT on May 09, 2014</pretty><civil>11:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>78</english>
+				<metric>26</metric>
+			</temp>
+			<dewpoint>
+				<english>67</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>42</sky>
+			<wspd>
+				<english>11</english>
+				<metric>18</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>221</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>70</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>78</english>
+					<metric>26</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>5</pop>
+			<mslp>
+				<english>29.89</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>12</hour><hour_padded>12</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399654800</epoch><pretty>12:00 PM CDT on May 09, 2014</pretty><civil>12:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>81</english>
+				<metric>27</metric>
+			</temp>
+			<dewpoint>
+				<english>65</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>38</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>225</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>58</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>82</english>
+				<metric>28</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>82</english>
+					<metric>28</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.88</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>13</hour><hour_padded>13</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399658400</epoch><pretty>1:00 PM CDT on May 09, 2014</pretty><civil>1:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>84</english>
+				<metric>29</metric>
+			</temp>
+			<dewpoint>
+				<english>64</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>33</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>224</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>51</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>86</english>
+				<metric>30</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>86</english>
+					<metric>30</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>3</pop>
+			<mslp>
+				<english>29.87</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>14</hour><hour_padded>14</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399662000</epoch><pretty>2:00 PM CDT on May 09, 2014</pretty><civil>2:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>86</english>
+				<metric>30</metric>
+			</temp>
+			<dewpoint>
+				<english>62</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>39</sky>
+			<wspd>
+				<english>7</english>
+				<metric>11</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>231</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>44</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>87</english>
+				<metric>30</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>87</english>
+					<metric>30</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>0</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>15</hour><hour_padded>15</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399665600</epoch><pretty>3:00 PM CDT on May 09, 2014</pretty><civil>3:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>87</english>
+				<metric>31</metric>
+			</temp>
+			<dewpoint>
+				<english>59</english>
+				<metric>15</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>27</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>WSW</dir>
+				<degrees>244</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>39</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>87</english>
+				<metric>31</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>87</english>
+					<metric>31</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>0</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>16</hour><hour_padded>16</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399669200</epoch><pretty>4:00 PM CDT on May 09, 2014</pretty><civil>4:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>88</english>
+				<metric>31</metric>
+			</temp>
+			<dewpoint>
+				<english>56</english>
+				<metric>13</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>11</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SW</dir>
+				<degrees>227</degrees>
+			</wdir>
+			<wx>Sunny</wx>
+			<uvi>10</uvi>
+			<humidity>34</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>86</english>
+				<metric>30</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>86</english>
+					<metric>30</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>0</pop>
+			<mslp>
+				<english>29.81</english>
+				<metric>1009</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>17</hour><hour_padded>17</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399672800</epoch><pretty>5:00 PM CDT on May 09, 2014</pretty><civil>5:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>87</english>
+				<metric>31</metric>
+			</temp>
+			<dewpoint>
+				<english>55</english>
+				<metric>13</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>13</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>209</degrees>
+			</wdir>
+			<wx>Sunny</wx>
+			<uvi>10</uvi>
+			<humidity>34</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>86</english>
+				<metric>30</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>86</english>
+					<metric>30</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>1</pop>
+			<mslp>
+				<english>29.79</english>
+				<metric>1009</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>18</hour><hour_padded>18</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399676400</epoch><pretty>6:00 PM CDT on May 09, 2014</pretty><civil>6:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>86</english>
+				<metric>30</metric>
+			</temp>
+			<dewpoint>
+				<english>55</english>
+				<metric>13</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>9</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>175</degrees>
+			</wdir>
+			<wx>Sunny</wx>
+			<uvi>10</uvi>
+			<humidity>35</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>85</english>
+				<metric>29</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>85</english>
+					<metric>29</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>2</pop>
+			<mslp>
+				<english>29.78</english>
+				<metric>1008</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>19</hour><hour_padded>19</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399680000</epoch><pretty>7:00 PM CDT on May 09, 2014</pretty><civil>7:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>84</english>
+				<metric>29</metric>
+			</temp>
+			<dewpoint>
+				<english>56</english>
+				<metric>13</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>8</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>SSE</dir>
+				<degrees>165</degrees>
+			</wdir>
+			<wx>Sunny</wx>
+			<uvi>10</uvi>
+			<humidity>39</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>83</english>
+				<metric>28</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>83</english>
+					<metric>28</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.78</english>
+				<metric>1008</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>20</hour><hour_padded>20</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399683600</epoch><pretty>8:00 PM CDT on May 09, 2014</pretty><civil>8:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>82</english>
+				<metric>28</metric>
+			</temp>
+			<dewpoint>
+				<english>59</english>
+				<metric>15</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>10</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SSE</dir>
+				<degrees>150</degrees>
+			</wdir>
+			<wx>Sunny</wx>
+			<uvi>10</uvi>
+			<humidity>46</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>82</english>
+				<metric>28</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>82</english>
+					<metric>28</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>15</pop>
+			<mslp>
+				<english>29.8</english>
+				<metric>1009</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>21</hour><hour_padded>21</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399687200</epoch><pretty>9:00 PM CDT on May 09, 2014</pretty><civil>9:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>80</english>
+				<metric>27</metric>
+			</temp>
+			<dewpoint>
+				<english>61</english>
+				<metric>16</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>15</sky>
+			<wspd>
+				<english>7</english>
+				<metric>11</metric>
+			</wspd>
+			<wdir>
+				<dir>SSE</dir>
+				<degrees>153</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>53</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>81</english>
+				<metric>27</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>80</english>
+					<metric>27</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>17</pop>
+			<mslp>
+				<english>29.81</english>
+				<metric>1009</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>22</hour><hour_padded>22</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399690800</epoch><pretty>10:00 PM CDT on May 09, 2014</pretty><civil>10:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>79</english>
+				<metric>26</metric>
+			</temp>
+			<dewpoint>
+				<english>62</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>14</sky>
+			<wspd>
+				<english>8</english>
+				<metric>13</metric>
+			</wspd>
+			<wdir>
+				<dir>SSE</dir>
+				<degrees>157</degrees>
+			</wdir>
+			<wx>Clear</wx>
+			<uvi>0</uvi>
+			<humidity>58</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>79</english>
+					<metric>26</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>18</pop>
+			<mslp>
+				<english>29.83</english>
+				<metric>1010</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>23</hour><hour_padded>23</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>9</mday><mday_padded>09</mday_padded><yday>128</yday><isdst>1</isdst><epoch>1399694400</epoch><pretty>11:00 PM CDT on May 09, 2014</pretty><civil>11:00 PM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Friday</weekday_name><weekday_name_night>Friday Night</weekday_name_night><weekday_name_abbrev>Fri</weekday_name_abbrev><weekday_name_unlang>Friday</weekday_name_unlang><weekday_name_night_unlang>Friday Night</weekday_name_night_unlang><ampm>PM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>76</english>
+				<metric>24</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>15</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>177</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>71</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>76</english>
+					<metric>24</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>22</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>0</hour><hour_padded>00</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399698000</epoch><pretty>12:00 AM CDT on May 10, 2014</pretty><civil>12:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>73</english>
+				<metric>23</metric>
+			</temp>
+			<dewpoint>
+				<english>65</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>16</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>SSW</dir>
+				<degrees>193</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>76</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>73</english>
+					<metric>23</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>22</pop>
+			<mslp>
+				<english>29.87</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>1</hour><hour_padded>01</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399701600</epoch><pretty>1:00 AM CDT on May 10, 2014</pretty><civil>1:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>72</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>65</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>16</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>189</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>76</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>72</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>23</pop>
+			<mslp>
+				<english>29.88</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>2</hour><hour_padded>02</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399705200</epoch><pretty>2:00 AM CDT on May 10, 2014</pretty><civil>2:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>71</english>
+				<metric>22</metric>
+			</temp>
+			<dewpoint>
+				<english>64</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>19</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>184</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>77</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>71</english>
+					<metric>22</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.88</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>3</hour><hour_padded>03</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399708800</epoch><pretty>3:00 AM CDT on May 10, 2014</pretty><civil>3:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>63</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Clear</condition>
+			
+			
+			<icon>clear</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_clear.gif</icon_url>
+			<fctcode>1</fctcode>
+			<sky>24</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>180</degrees>
+			</wdir>
+			<wx>Mostly Clear</wx>
+			<uvi>0</uvi>
+			<humidity>79</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.86</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>4</hour><hour_padded>04</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399712400</epoch><pretty>4:00 AM CDT on May 10, 2014</pretty><civil>4:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>63</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>30</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>173</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>79</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>5</hour><hour_padded>05</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399716000</epoch><pretty>5:00 AM CDT on May 10, 2014</pretty><civil>5:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>69</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>63</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>32</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>169</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>81</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>69</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>4</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>6</hour><hour_padded>06</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399719600</epoch><pretty>6:00 AM CDT on May 10, 2014</pretty><civil>6:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>68</english>
+				<metric>20</metric>
+			</temp>
+			<dewpoint>
+				<english>63</english>
+				<metric>17</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/nt_partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>35</sky>
+			<wspd>
+				<english>9</english>
+				<metric>14</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>170</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>0</uvi>
+			<humidity>83</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>68</english>
+					<metric>20</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>5</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>7</hour><hour_padded>07</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399723200</epoch><pretty>7:00 AM CDT on May 10, 2014</pretty><civil>7:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>68</english>
+				<metric>20</metric>
+			</temp>
+			<dewpoint>
+				<english>64</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>36</sky>
+			<wspd>
+				<english>10</english>
+				<metric>16</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>172</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>86</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>68</english>
+					<metric>20</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>5</pop>
+			<mslp>
+				<english>29.85</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>8</hour><hour_padded>08</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399726800</epoch><pretty>8:00 AM CDT on May 10, 2014</pretty><civil>8:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>70</english>
+				<metric>21</metric>
+			</temp>
+			<dewpoint>
+				<english>64</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>35</sky>
+			<wspd>
+				<english>11</english>
+				<metric>18</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>180</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>83</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>70</english>
+					<metric>21</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>5</pop>
+			<mslp>
+				<english>29.86</english>
+				<metric>1011</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>9</hour><hour_padded>09</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399730400</epoch><pretty>9:00 AM CDT on May 10, 2014</pretty><civil>9:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>73</english>
+				<metric>23</metric>
+			</temp>
+			<dewpoint>
+				<english>66</english>
+				<metric>19</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>32</sky>
+			<wspd>
+				<english>13</english>
+				<metric>21</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>184</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>78</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>73</english>
+					<metric>23</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>3</pop>
+			<mslp>
+				<english>29.87</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+		<forecast>
+			<FCTTIME>
+				<hour>10</hour><hour_padded>10</hour_padded><min>00</min><min_unpadded>0</min_unpadded><sec>0</sec><year>2014</year><mon>5</mon><mon_padded>05</mon_padded><mon_abbrev>May</mon_abbrev><mday>10</mday><mday_padded>10</mday_padded><yday>129</yday><isdst>1</isdst><epoch>1399734000</epoch><pretty>10:00 AM CDT on May 10, 2014</pretty><civil>10:00 AM</civil><month_name>May</month_name><month_name_abbrev>May</month_name_abbrev><weekday_name>Saturday</weekday_name><weekday_name_night>Saturday Night</weekday_name_night><weekday_name_abbrev>Sat</weekday_name_abbrev><weekday_name_unlang>Saturday</weekday_name_unlang><weekday_name_night_unlang>Saturday Night</weekday_name_night_unlang><ampm>AM</ampm><tz/><age/><UTCDATE/>
+			</FCTTIME>
+			<temp>
+				<english>76</english>
+				<metric>24</metric>
+			</temp>
+			<dewpoint>
+				<english>65</english>
+				<metric>18</metric>
+			</dewpoint>
+			<condition>Partly Cloudy</condition>
+			
+			
+			<icon>partlycloudy</icon>
+			<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+			<fctcode>2</fctcode>
+			<sky>31</sky>
+			<wspd>
+				<english>14</english>
+				<metric>23</metric>
+			</wspd>
+			<wdir>
+				<dir>South</dir>
+				<degrees>185</degrees>
+			</wdir>
+			<wx>Partly Cloudy</wx>
+			<uvi>10</uvi>
+			<humidity>70</humidity>
+			<windchill>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</windchill>
+			<heatindex>
+				<english>-9999</english>
+				<metric>-9999</metric>
+			</heatindex>
+			
+				<feelslike>
+					<english>76</english>
+					<metric>24</metric>
+				</feelslike>
+			
+			<qpf>
+				<english>0</english>
+				<metric>0</metric>
+			</qpf>
+			<snow>
+				<english>0</english>
+				<metric>0</metric>
+			</snow>
+			<pop>2</pop>
+			<mslp>
+				<english>29.88</english>
+				<metric>1012</metric>
+			</mslp>
+		</forecast>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	</hourly_forecast>
+
+    
+    
+    
+	
+  
+	
+	
+	
+	
+	
+    
+    
+
+
+    
+    
+    
+    
+</response>

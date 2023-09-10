@@ -1,0 +1,3 @@
+ALTER TABLE `settingsconfig` ADD `sc_sprinkler_manual` ENUM( 'on', 'off' ) NOT NULL DEFAULT 'off' AFTER `sc_sprinkler_mode` ;
+ALTER TABLE `settingsconfig` CHANGE `sc_sprinkler_manual` `sc_sprinkler_manual_operation` ENUM( 'on', 'off' ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT 'off';
+ALTER TABLE `settingsconfig` ADD `sc_sprinkler_manual_date` DATETIME NOT NULL AFTER `sc_sprinkler_manual_operation` ;

@@ -1,0 +1,941 @@
+<response>
+	<version>0.1</version>
+	<termsofService>http://www.wunderground.com/weather/api/d/terms.html</termsofService>
+	<features>
+		<feature>forecast</feature>
+		<feature>geolookup</feature>
+		<feature>conditions</feature>
+	</features>
+		<location>
+		<type>CITY</type>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<country_name>USA</country_name>
+		<state>WA</state>
+		<city>Seattle</city>
+		<tz_short>PDT</tz_short>
+		<tz_long>America/Los_Angeles</tz_long>
+		<lat>47.61167908</lat>
+		<lon>-122.33325958</lon>
+		<zip>98101</zip>
+		<magic>1</magic>
+		<wmo>99999</wmo>
+		<l>/q/zmw:98101.1.99999</l>
+		<requesturl>US/WA/Seattle.html</requesturl>
+		<wuiurl>http://www.wunderground.com/US/WA/Seattle.html</wuiurl>
+		<nearby_weather_stations>
+		<airport>
+		<station>
+		<city>Seattle Boeing</city>
+		<state>WA</state>
+		<country>US</country>
+		<icao>KBFI</icao>
+		<lat>47.52999878</lat>
+		<lon>-122.30197144</lon>
+		</station>
+		<station>
+		<city>Renton</city>
+		<state>WA</state>
+		<country>US</country>
+		<icao>KRNT</icao>
+		<lat>47.49313736</lat>
+		<lon>-122.21575165</lon>
+		</station>
+		<station>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<icao>KSEA</icao>
+		<lat>47.44469070</lat>
+		<lon>-122.31436920</lon>
+		</station>
+		<station>
+		<city>Everett</city>
+		<state>WA</state>
+		<country>US</country>
+		<icao>KPAE</icao>
+		<lat>47.90700150</lat>
+		<lon>-122.28158569</lon>
+		</station>
+		</airport>
+		<pws>
+		<station>
+		<neighborhood>MesoWest SEATTLE - OLIVE AND BOREN WA US WAAQ</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>MSEAOL</id>
+  <lat>47.612999</lat>
+  <lon>-122.330002</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Herrera, Inc.</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT187</id>
+  <lat>47.616558</lat>
+  <lon>-122.341240</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>UW Integrated Design Lab, Bullitt Center</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT182</id>
+  <lat>47.614361</lat>
+  <lon>-122.312439</lon>
+		<distance_km>1</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Capitol Hill</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT169</id>
+  <lat>47.622158</lat>
+  <lon>-122.317497</lon>
+		<distance_km>1</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Queen Anne Southern Exposure</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT116</id>
+  <lat>47.626808</lat>
+  <lon>-122.353851</lon>
+		<distance_km>2</distance_km>
+		<distance_mi>1</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Seattle Girls School</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT245</id>
+  <lat>47.599674</lat>
+  <lon>-122.296761</lon>
+		<distance_km>3</distance_km>
+		<distance_mi>1</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Eastlake on Lake Union</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT220</id>
+  <lat>47.643906</lat>
+  <lon>-122.327972</lon>
+		<distance_km>3</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Queen Anne - Toddster weather</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT92</id>
+  <lat>47.642536</lat>
+  <lon>-122.367249</lon>
+		<distance_km>4</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>MesoWest UNIVERSITY OF WASHINGTON WA US WAAQ</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>MUWASH</id>
+  <lat>47.650002</lat>
+  <lon>-122.309998</lon>
+		<distance_km>4</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>West Seattle (Two Dogs Observatory)</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT155</id>
+  <lat>47.586651</lat>
+  <lon>-122.383881</lon>
+		<distance_km>4</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Beacon Hill</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT216</id>
+  <lat>47.572872</lat>
+  <lon>-122.307472</lon>
+		<distance_km>4</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>University District</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT109</id>
+  <lat>47.648273</lat>
+  <lon>-122.297913</lon>
+		<distance_km>4</distance_km>
+		<distance_mi>2</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Fremont</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT14</id>
+  <lat>47.655811</lat>
+  <lon>-122.355141</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Queen Anne - Western Exposure</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT211</id>
+  <lat>47.651688</lat>
+  <lon>-122.373314</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Alki</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT229</id>
+  <lat>47.582603</lat>
+  <lon>-122.394569</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Magnolia</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT208</id>
+  <lat>47.643829</lat>
+  <lon>-122.391907</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>North Delridge</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT241</id>
+  <lat>47.565216</lat>
+  <lon>-122.369507</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Phinney Ridge</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT210</id>
+  <lat>47.662998</lat>
+  <lon>-122.356003</lon>
+		<distance_km>5</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Magnolia - MaxHome</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT142</id>
+  <lat>47.645866</lat>
+  <lon>-122.399231</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Magnolia, Seattle</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT108</id>
+  <lat>47.648968</lat>
+  <lon>-122.396111</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>SE Green Lake</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT58</id>
+  <lat>47.669079</lat>
+  <lon>-122.334999</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Tangletown</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT243</id>
+  <lat>47.669876</lat>
+  <lon>-122.329605</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Ballard - West Woodland</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT153</id>
+  <lat>47.666016</lat>
+  <lon>-122.369255</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>3</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Roosevelt - Tomster</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT107</id>
+  <lat>47.673100</lat>
+  <lon>-122.316315</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Greenlake East</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT181</id>
+  <lat>47.674290</lat>
+  <lon>-122.329010</lon>
+		<distance_km>6</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Phinney Ridge</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT223</id>
+  <lat>47.672501</lat>
+  <lon>-122.359802</lon>
+		<distance_km>7</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Ballard East</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT248</id>
+  <lat>47.672512</lat>
+  <lon>-122.372238</lon>
+		<distance_km>7</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Ballard</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT148</id>
+  <lat>47.673744</lat>
+  <lon>-122.369766</lon>
+		<distance_km>7</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Bryant</neighborhood>
+		<city>Seattle</city>
+		<state>WA</state>
+		<country>US</country>
+		<id>KWASEATT180</id>
+  <lat>47.670841</lat>
+  <lon>-122.282814</lon>
+		<distance_km>7</distance_km>
+		<distance_mi>4</distance_mi>
+		</station>
+		</pws>
+		</nearby_weather_stations>
+	</location>
+  <current_observation>
+		<image>
+		<url>http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png</url>
+		<title>Weather Underground</title>
+		<link>http://www.wunderground.com</link>
+		</image>
+		<display_location>
+		<full>Seattle, WA</full>
+		<city>Seattle</city>
+		<state>WA</state>
+		<state_name>Washington</state_name>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<zip>98101</zip>
+		<magic>1</magic>
+		<wmo>99999</wmo>
+		<latitude>47.61167908</latitude>
+		<longitude>-122.33325958</longitude>
+		<elevation>63.00000000</elevation>
+		</display_location>
+		<observation_location>
+		<full>Herrera, Inc., Seattle, Washington</full>
+		<city>Herrera, Inc., Seattle</city>
+		<state>Washington</state>
+		<country>US</country>
+		<country_iso3166>US</country_iso3166>
+		<latitude>47.616558</latitude>
+		<longitude>-122.341240</longitude>
+		<elevation>121 ft</elevation>
+		</observation_location>
+		<estimated>
+		</estimated>
+		<station_id>KWASEATT187</station_id>
+		<observation_time>Last Updated on May 5, 7:21 PM PDT</observation_time>
+		<observation_time_rfc822>Mon, 05 May 2014 19:21:06 -0700</observation_time_rfc822>
+		<observation_epoch>1399342866</observation_epoch>
+		<local_time_rfc822>Mon, 05 May 2014 19:21:06 -0700</local_time_rfc822>
+		<local_epoch>1399342866</local_epoch>
+		<local_tz_short>PDT</local_tz_short>
+		<local_tz_long>America/Los_Angeles</local_tz_long>
+		<local_tz_offset>-0700</local_tz_offset>
+		<weather>Scattered Clouds</weather>
+		<temperature_string>55.8 F (13.2 C)</temperature_string>
+		<temp_f>55.8</temp_f>
+		<temp_c>13.2</temp_c>
+		<relative_humidity>82%</relative_humidity>
+		<wind_string>From the West at 6.0 MPH Gusting to 7.0 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>262</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>7.0</wind_gust_mph>
+		<wind_kph>9.7</wind_kph>
+		<wind_gust_kph>11.3</wind_gust_kph>
+		<pressure_mb>1016</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<pressure_trend>+</pressure_trend>
+		
+		<dewpoint_string>50 F (10 C)</dewpoint_string>
+		<dewpoint_f>50</dewpoint_f>
+		<dewpoint_c>10</dewpoint_c>
+		
+		
+		<heat_index_string>NA</heat_index_string>
+		<heat_index_f>NA</heat_index_f>
+		<heat_index_c>NA</heat_index_c>
+		
+		
+		<windchill_string>NA</windchill_string>
+		<windchill_f>NA</windchill_f>
+		<windchill_c>NA</windchill_c>
+		
+        <feelslike_string>55.8 F (13.2 C)</feelslike_string>
+        <feelslike_f>55.8</feelslike_f>
+        <feelslike_c>13.2</feelslike_c>
+		<visibility_mi>10.0</visibility_mi>
+		<visibility_km>16.1</visibility_km>
+		<solarradiation/>
+		<UV>1</UV>
+		<precip_1hr_string>0.00 in ( 0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric> 0</precip_1hr_metric>
+		<precip_today_string>0.05 in (1 mm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>1</precip_today_metric>
+		
+		
+		
+		<icon>partlycloudy</icon>
+		<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+		<forecast_url>http://www.wunderground.com/US/WA/Seattle.html</forecast_url>
+        
+        <history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWASEATT187</history_url>
+        
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.616558,-122.341240</ob_url>
+	</current_observation>
+
+		
+	
+	
+	
+	
+    
+	
+		
+
+
+
+
+
+
+
+
+	<forecast>
+		<txt_forecast>
+			<date>8:00 PM PDT</date>
+			<forecastdays>
+				
+				
+
+			
+				<forecastday>
+					<period>0</period>
+					<icon>rain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/rain.gif</icon_url>
+					
+					<title>Monday</title>
+					<fcttext><![CDATA[Overcast with a chance of rain, then  rain showers in the afternoon. High of 59F. Winds from the SW at 5 to 15 mph. Chance of rain 80%.]]></fcttext>
+					<fcttext_metric><![CDATA[Overcast with a chance of rain, then  rain showers in the afternoon. High of 15C. Breezy. Winds from the SW at 10 to 20 km/h. Chance of rain 80%.]]></fcttext_metric>
+					<pop>80</pop>
+				</forecastday>
+
+				
+				<forecastday>
+					<period>1</period>
+					<icon>chancerain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/chancerain.gif</icon_url>
+					
+					<title>Monday Night</title>
+					<fcttext><![CDATA[Mostly cloudy with a chance of rain. Low of 45F. Winds from the NNE at 5 to 10 mph shifting to the SE after midnight. Chance of rain 30%.]]></fcttext>
+					<fcttext_metric><![CDATA[Mostly cloudy with a chance of rain. Low of 7C. Winds from the NNE at 5 to 15 km/h shifting to the SE after midnight. Chance of rain 30%.]]></fcttext_metric>
+					<pop>30</pop>
+				</forecastday>
+				
+			
+				<forecastday>
+					<period>2</period>
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					
+					<title>Tuesday</title>
+					<fcttext><![CDATA[Partly cloudy with a chance of rain. High of 61F. Winds less than 5 mph. Chance of rain 20%.]]></fcttext>
+					<fcttext_metric><![CDATA[Partly cloudy with a chance of rain. High of 16C. Winds less than 5 km/h.]]></fcttext_metric>
+					<pop>20</pop>
+				</forecastday>
+
+				
+				<forecastday>
+					<period>3</period>
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					
+					<title>Tuesday Night</title>
+					<fcttext><![CDATA[Partly cloudy. Fog overnight. Low of 41F. Winds from the WNW at 5 to 10 mph shifting to the South after midnight.]]></fcttext>
+					<fcttext_metric><![CDATA[Partly cloudy. Fog overnight. Low of 5C. Winds from the WNW at 5 to 15 km/h shifting to the South after midnight.]]></fcttext_metric>
+					<pop>10</pop>
+				</forecastday>
+				
+			
+				<forecastday>
+					<period>4</period>
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					
+					<title>Wednesday</title>
+					<fcttext><![CDATA[Partly cloudy. High of 63F. Winds less than 5 mph.]]></fcttext>
+					<fcttext_metric><![CDATA[Partly cloudy. High of 17C. Winds less than 5 km/h.]]></fcttext_metric>
+					<pop>10</pop>
+				</forecastday>
+
+				
+				<forecastday>
+					<period>5</period>
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					
+					<title>Wednesday Night</title>
+					<fcttext><![CDATA[Partly cloudy with  a chance of rain after midnight. Fog overnight. Low of 43F. Winds less than 5 mph.]]></fcttext>
+					<fcttext_metric><![CDATA[Partly cloudy with  a chance of rain after midnight. Fog overnight. Low of 6C. Winds less than 5 km/h.]]></fcttext_metric>
+					<pop>40</pop>
+				</forecastday>
+				
+			
+				<forecastday>
+					<period>6</period>
+					<icon>rain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/rain.gif</icon_url>
+					
+					<title>Thursday</title>
+					<fcttext><![CDATA[Overcast with a chance of rain, then  rain in the afternoon. High of 55F. Winds from the SSW at 5 to 10 mph. Chance of rain 50%.]]></fcttext>
+					<fcttext_metric><![CDATA[Overcast with a chance of rain, then  rain in the afternoon. High of 13C. Winds from the SSW at 10 to 15 km/h. Chance of rain 50%.]]></fcttext_metric>
+					<pop>50</pop>
+				</forecastday>
+
+				
+				<forecastday>
+					<period>7</period>
+					<icon>chancerain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/chancerain.gif</icon_url>
+					
+					<title>Thursday Night</title>
+					<fcttext><![CDATA[Overcast with a chance of rain. Fog overnight. Low of 46F. Winds from the South at 5 to 10 mph. Chance of rain 40%.]]></fcttext>
+					<fcttext_metric><![CDATA[Overcast with a chance of rain. Fog overnight. Low of 8C. Winds from the South at 10 to 15 km/h. Chance of rain 40%.]]></fcttext_metric>
+					<pop>40</pop>
+				</forecastday>
+				
+			
+			</forecastdays>
+		</txt_forecast>
+
+		<simpleforecast>
+			<forecastdays>
+				
+				<forecastday>
+					<date>
+  <epoch>1399356000</epoch>
+  <pretty_short>11:00 PM PDT</pretty_short>
+  <pretty>11:00 PM PDT on May 05, 2014</pretty>
+  <day>5</day>
+  <month>5</month>
+  <year>2014</year>
+  <yday>124</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>May</monthname>
+  <monthname_short>May</monthname_short>
+  <weekday_short>Mon</weekday_short>
+  <weekday>Monday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>PDT</tz_short>
+  <tz_long>America/Vancouver</tz_long>
+</date>
+					<period>1</period>
+					<high>
+						<fahrenheit>59</fahrenheit>
+						<celsius>15</celsius>
+					</high>
+					<low>
+						<fahrenheit>45</fahrenheit>
+						<celsius>7</celsius>
+					</low>
+					<conditions>Rain Showers</conditions>
+					
+					<icon>rain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/rain.gif</icon_url>
+					<skyicon>mostlycloudy</skyicon>
+					<pop>80</pop>
+					<qpf_allday>
+						<in>0.23</in>
+						<mm>5.8</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.11</in>
+						<mm>2.8</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.02</in>
+						<mm>0.5</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>11</mph>
+						<kph>18</kph>
+						<dir>SSW</dir>
+						<degrees>207</degrees>
+					</maxwind>
+					<avewind>
+						<mph>5</mph>
+						<kph>8</kph>
+						<dir>WSW</dir>
+						<degrees>246</degrees>
+					</avewind>
+					<avehumidity>73</avehumidity>
+					<maxhumidity>96</maxhumidity>
+					<minhumidity>64</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1399442400</epoch>
+  <pretty_short>11:00 PM PDT</pretty_short>
+  <pretty>11:00 PM PDT on May 06, 2014</pretty>
+  <day>6</day>
+  <month>5</month>
+  <year>2014</year>
+  <yday>125</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>May</monthname>
+  <monthname_short>May</monthname_short>
+  <weekday_short>Tue</weekday_short>
+  <weekday>Tuesday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>PDT</tz_short>
+  <tz_long>America/Vancouver</tz_long>
+</date>
+					<period>2</period>
+					<high>
+						<fahrenheit>61</fahrenheit>
+						<celsius>16</celsius>
+					</high>
+					<low>
+						<fahrenheit>41</fahrenheit>
+						<celsius>5</celsius>
+					</low>
+					<conditions>Chance of Rain</conditions>
+					
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					<skyicon>partlycloudy</skyicon>
+					<pop>20</pop>
+					<qpf_allday>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>4</mph>
+						<kph>6</kph>
+						<dir>SSE</dir>
+						<degrees>148</degrees>
+					</maxwind>
+					<avewind>
+						<mph>3</mph>
+						<kph>5</kph>
+						<dir>West</dir>
+						<degrees>266</degrees>
+					</avewind>
+					<avehumidity>84</avehumidity>
+					<maxhumidity>100</maxhumidity>
+					<minhumidity>50</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1399528800</epoch>
+  <pretty_short>11:00 PM PDT</pretty_short>
+  <pretty>11:00 PM PDT on May 07, 2014</pretty>
+  <day>7</day>
+  <month>5</month>
+  <year>2014</year>
+  <yday>126</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>May</monthname>
+  <monthname_short>May</monthname_short>
+  <weekday_short>Wed</weekday_short>
+  <weekday>Wednesday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>PDT</tz_short>
+  <tz_long>America/Vancouver</tz_long>
+</date>
+					<period>3</period>
+					<high>
+						<fahrenheit>63</fahrenheit>
+						<celsius>17</celsius>
+					</high>
+					<low>
+						<fahrenheit>43</fahrenheit>
+						<celsius>6</celsius>
+					</low>
+					<conditions>Partly Cloudy</conditions>
+					
+					<icon>partlycloudy</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/partlycloudy.gif</icon_url>
+					<skyicon>partlycloudy</skyicon>
+					<pop>10</pop>
+					<qpf_allday>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.00</in>
+						<mm>0.0</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>5</mph>
+						<kph>8</kph>
+						<dir>SSW</dir>
+						<degrees>204</degrees>
+					</maxwind>
+					<avewind>
+						<mph>4</mph>
+						<kph>6</kph>
+						<dir>SW</dir>
+						<degrees>216</degrees>
+					</avewind>
+					<avehumidity>78</avehumidity>
+					<maxhumidity>96</maxhumidity>
+					<minhumidity>47</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1399615200</epoch>
+  <pretty_short>11:00 PM PDT</pretty_short>
+  <pretty>11:00 PM PDT on May 08, 2014</pretty>
+  <day>8</day>
+  <month>5</month>
+  <year>2014</year>
+  <yday>127</yday>
+  <hour>23</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>May</monthname>
+  <monthname_short>May</monthname_short>
+  <weekday_short>Thu</weekday_short>
+  <weekday>Thursday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>PDT</tz_short>
+  <tz_long>America/Vancouver</tz_long>
+</date>
+					<period>4</period>
+					<high>
+						<fahrenheit>55</fahrenheit>
+						<celsius>13</celsius>
+					</high>
+					<low>
+						<fahrenheit>46</fahrenheit>
+						<celsius>8</celsius>
+					</low>
+					<conditions>Rain</conditions>
+					
+					<icon>rain</icon>
+					<icon_url>http://icons-ak.wxug.com/i/c/k/rain.gif</icon_url>
+					<skyicon>mostlycloudy</skyicon>
+					<pop>50</pop>
+					<qpf_allday>
+						<in>0.18</in>
+						<mm>4.6</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.14</in>
+						<mm>3.6</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.06</in>
+						<mm>1.5</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0</in>
+						<cm>0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>7</mph>
+						<kph>11</kph>
+						<dir>SW</dir>
+						<degrees>230</degrees>
+					</maxwind>
+					<avewind>
+						<mph>6</mph>
+						<kph>10</kph>
+						<dir>South</dir>
+						<degrees>191</degrees>
+					</avewind>
+					<avehumidity>89</avehumidity>
+					<maxhumidity>98</maxhumidity>
+					<minhumidity>68</minhumidity>
+				</forecastday>
+				
+			</forecastdays>
+		</simpleforecast>
+	</forecast>
+
+	
+	
+		
+	
+
+    
+    
+    
+	
+  
+	
+	
+	
+	
+	
+    
+    
+
+
+    
+    
+    
+    
+</response>

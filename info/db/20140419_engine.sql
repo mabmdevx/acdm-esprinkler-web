@@ -1,0 +1,1 @@
+ALTER TABLE `pi_track` ENGINE = MYISAM ;

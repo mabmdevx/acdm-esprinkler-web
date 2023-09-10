@@ -1,0 +1,42 @@
+[site]
+SITE_NAME     = eSprinkler - Web
+SITE_SHORT_NAME = ESPRINKLER-WEB
+
+[database - LOCAL]
+DB_HOST     = localhost
+DB_NAME     = esprinkler_web
+DB_USER     = dbuserxyz
+DB_PASSWORD = dbpasswordxyz
+
+[database - DEV]
+DB_HOST     = localhost
+DB_NAME     = esprinkler_web
+DB_USER     = dbuserxyz
+DB_PASSWORD = dbpasswordxyz
+
+[database - LIVE]
+DB_HOST     = mysql.3owl.com
+DB_NAME     = u839781287_esprk
+DB_USER     = u839781287_esprk
+DB_PASSWORD = Wow12345
+
+[database - LIVE2]
+DB_HOST     = mysql.serversfree.com
+DB_NAME     = u411655236_esprk
+DB_USER     = u411655236_esprk
+DB_PASSWORD = Wow12345
+
+[database - LIVE3]
+DB_HOST     = mysql.3owl.com
+DB_NAME     = u136570935_esprk
+DB_USER     = u136570935_esprk
+DB_PASSWORD = Wow12345
+
+[database - LIVE4]
+DB_HOST     = mysql.wink.ws
+DB_NAME     = u751867886_esprk
+DB_USER     = u751867886_esprk
+DB_PASSWORD = Wow12345
+
+[socket]
+SOCKET_SERVER = abc.xyz.edu
